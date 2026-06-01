@@ -9,8 +9,8 @@
 
 | Model | Open in Colab |
 |-------|--------------|
-| **Prithvi EO v2** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VjVZqQGgAW63ibaCWBKTn6Y7taJ1Sety#scrollTo=CRvmkTHFIx8X) |
-| **Clay v1.5** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EIPUsTiu5wk2oVTRBZC5-6I628xCDR3M?authuser=2#scrollTo=pH8hLzX45cJb) |
+| **Prithvi EO v2** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VjVZqQGgAW63ibaCWBKTn6Y7taJ1Sety?usp=sharing) |
+| **Clay v1.5** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EIPUsTiu5wk2oVTRBZC5-6I628xCDR3M?usp=sharing) |
 
 ---
 
