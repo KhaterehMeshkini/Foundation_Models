@@ -7,10 +7,10 @@
 
 ## 🚀 Open the Notebooks
 
-| Model | Open in Colab |
-|-------|--------------|
-| **Prithvi EO v2** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VjVZqQGgAW63ibaCWBKTn6Y7taJ1Sety?usp=sharing) |
-| **Clay v1.5** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EIPUsTiu5wk2oVTRBZC5-6I628xCDR3M?usp=sharing) |
+|Open in Colab |
+|--------------|
+|  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1k8KJfspS8X6GBG-knoPjTmI7C5u6qHfr?usp=sharing) |
+
 
 ---
 
